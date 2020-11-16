@@ -3,6 +3,8 @@ def main():
     print('And I change it every day')
     print('And I change it every day2')
     print('BUUUUU')
+    print('aaaa')
+    print('aaa')
 
 if __name__ == '__main__':
     main()
