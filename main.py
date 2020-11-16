@@ -5,6 +5,8 @@ def main():
     print('BUUUUU')
     print('aaaa')
     print('aaa')
+    print('jkdhjkdf')
+
 
 if __name__ == '__main__':
     main()
